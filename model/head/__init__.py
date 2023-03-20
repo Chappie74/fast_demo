@@ -1,0 +1,1 @@
+from .fast_head import fast_head
